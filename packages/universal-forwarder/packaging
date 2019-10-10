@@ -1,0 +1,9 @@
+#!/bin/bash
+set -eux
+
+cd splunk
+tar -xzf splunkforwarder-*.tgz 
+pushd splunkforwarder*/
+    cp -R *      ${BOSH_INSTALL_TARGET}
+popd
+chmod 0755 ${BOSH_INSTALL_TARGET}/bin/*

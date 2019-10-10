@@ -1,0 +1,48 @@
+builds:
+  3c955cb2-1297-4167-4a5e-7fef710ff616:
+    version: 0+dev.1570218436
+  3fa690ab-3979-4e1c-5564-40fa025ca3bd:
+    version: 0+dev.1570219767
+  5176e8fe-98c6-4298-6f20-89c6e31842ce:
+    version: 0+dev.1570545384
+  55098923-78b8-4321-6215-0d94886ad3df:
+    version: 0+dev.1570203789
+  55dad88e-ab3f-4162-4012-4a5ece213e1d:
+    version: 0+dev.1570206229
+  585f01fb-6d48-41ea-6647-9c073b16e67a:
+    version: 0+dev.1570636546
+  595eee37-4c1f-4db1-5ff4-dc8df68f3630:
+    version: 0+dev.1570544313
+  6417e05c-3368-4438-42e1-a8b766514667:
+    version: 0+dev.1570213078
+  65944eb2-053d-417d-69a9-5572469851a2:
+    version: 0+dev.1570547717
+  69474c91-e7d9-4902-7fe5-c211b6fc9ea5:
+    version: 0+dev.1570474081
+  70c70fbb-3984-4429-7553-92e16afd31b6:
+    version: 0+dev.1570636570
+  79f78888-b190-4976-56ce-5db2515044d9:
+    version: 0+dev.1570220253
+  7ad626c3-12ed-4d25-657c-cb730ce2b8c0:
+    version: 0+dev.1570219098
+  7d124068-b2db-4b96-74ee-64b694592d93:
+    version: 0+dev.1570558429
+  8944c015-c288-4edb-725b-fee014082048:
+    version: 0+dev.1570221921
+  8c43baeb-4d52-413a-66bb-cb7a327c7671:
+    version: 0+dev.1570540248
+  8c5693c6-753b-4489-4ff9-04b5ddfec146:
+    version: 0+dev.1570545370
+  a6cfb184-3d45-4b2f-68e2-81f42ddba06f:
+    version: 0+dev.1570563799
+  b621a14e-a020-41bc-5a57-47e054e34721:
+    version: 0+dev.1570214542
+  c3e29a85-ce8e-490b-4b77-013753aa0420:
+    version: 0+dev.1570221428
+  e75010d8-5a1f-4d67-7e6f-276953f55c03:
+    version: 0+dev.1570203194
+  eddba4a5-e49d-48ab-6295-295de114afef:
+    version: 0+dev.1570630914
+  f600c6d4-0c71-43a1-6890-7aee2ff3f42e:
+    version: 0+dev.1570476262
+format-version: "2"

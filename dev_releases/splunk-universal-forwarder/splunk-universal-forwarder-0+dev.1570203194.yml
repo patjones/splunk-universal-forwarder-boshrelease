@@ -1,0 +1,15 @@
+name: splunk-universal-forwarder
+version: 0+dev.1570203194
+commit_hash: empty
+uncommitted_changes: true
+jobs:
+- name: universal-forwarder
+  version: d18d5b9734bf092da8f8e58128cca922abdc7907
+  fingerprint: d18d5b9734bf092da8f8e58128cca922abdc7907
+  sha1: 496b68a6a2ba4d4e108e83340102259c5d76d598
+packages:
+- name: splunk
+  version: 1694d1da271167f4751badd22f93afc7c15837ae
+  fingerprint: 1694d1da271167f4751badd22f93afc7c15837ae
+  sha1: b1a48cad72f6809f50b552a473d74f62854ca130
+  dependencies: []

@@ -1,0 +1,19 @@
+---
+name: universal-forwarder
+
+packages:
+  - universal-forwarder
+
+templates:
+    bin/universal-forwarder:  bin/universal-forwarder
+    config/outputs.conf: config/outputs.conf
+    config/inputs.conf : config/inputs.conf
+    config/user-seed.conf : config/user-seed.conf
+
+properties:
+    output_config:
+        description: Your splunk output.conf
+    input_config:
+        description: Your splnuk input.conf
+    user_seed_config:
+        description: Your splunk user seed file

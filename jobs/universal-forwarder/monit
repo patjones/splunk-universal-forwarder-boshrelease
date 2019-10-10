@@ -1,0 +1,5 @@
+check process universal-forwarder
+  with pidfile   /var/vcap/sys/run/universal-forwarder/universal-forwarder.pid
+  start program "/var/vcap/jobs/universal-forwarder/bin/universal-forwarder start"
+  stop program  "/var/vcap/jobs/universal-forwarder/bin/universal-forwarder stop"
+  group vcap
